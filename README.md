@@ -6,7 +6,7 @@ Note that lodash functions share dependencies. That means importing several loda
 
 The result is the following table:
 
-| Lodash Function   | Bytes |
+| Lodash Function   | Bytes minified and gzipped |
 | ----------------- | ----- |
 | isNil             | 496   |
 | isNull            | 496   |
